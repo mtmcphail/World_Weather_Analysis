@@ -14,7 +14,7 @@ Essentially, the app searches for the hotels based on the client's preferred tra
 * Finally, with the use of Google Maps Directions API, a travel route between the four destination cities as well as a marker layer map will be created.
 
 ## Resources 
-Python and a variety of imports and modules including:
+Python, along with and a variety of imports and modules including:
 
 * pandas
 * matplotlib.pyplot
@@ -24,8 +24,9 @@ Python and a variety of imports and modules including:
 * datetime 
 * gmaps
 * gmaps.datasets
+* gmaps.configure
 
-as well as **API keys** to access (request) data from OpenWeatherMap API and Google Cloud Platform API for directions.
+as well as **API keys** to access (i.e. request) data from OpenWeatherMap API and Google Cloud Platform API for directions, was employed for this project.
 
 This coding was done in **Jupyter Notebook** rather than Jupyter Lab as some of the maps were not rending properly with Jupyter Lab.
 
