@@ -4,7 +4,9 @@
 
 
 ## Project Overview 
-Jack, the head of analysis of the user interface team at PlanMyTrip loves the new app the analytics team just developed....and so far so do the Beta testers. Essentially the app current searches for the hotels based on the client's preferred travel criteria via the PlanMyTrip search page. But as with most products, improvements and enhancement can be made!   The Beta testers have brought forth some insightful recommendations! 
+Jack, Head of Analysis of the User Interface team at PlanMyTrip, loves the new app the analytics team just developed....and so far so do the Beta testers!
+
+Essentially, the app searches for the hotels based on the client's preferred travel criteria via the PlanMyTrip search page. However, as with most products, improvements and enhancement can be made.   The Beta testers have brought forth some insightful recommendations.
 
 * First, the Beta testers would like to see the weather description incorporated into to the weather data currently being retrieved and presented. 
 * Second, include input statements - to be filled out by the end-user - to filter/query the data based on weather preferences.  These filters will be used to identify and present potential travel destinations and nearby hotels. 
